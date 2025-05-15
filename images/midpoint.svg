@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="150px" viewBox="0 0 200 150" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F3F4F6" x="0" y="0" width="200" height="150" rx="8"/>
+        <circle fill="#36E2C3" opacity="0.1" cx="100" cy="75" r="40"/>
+        <circle fill="#36E2C3" cx="100" cy="75" r="10"/>
+        <circle fill="#FFFFFF" cx="100" cy="75" r="4"/>
+        <circle fill="#8A4FFF" cx="60" cy="45" r="8"/>
+        <circle fill="#8A4FFF" cx="140" cy="105" r="8"/>
+        <circle fill="#8A4FFF" cx="60" cy="105" r="8"/>
+        <circle fill="#36E2C3" opacity="0.8" cx="85" cy="65" r="6"/>
+        <circle fill="#36E2C3" opacity="0.8" cx="115" cy="85" r="6"/>
+        <circle fill="#36E2C3" opacity="0.8" cx="100" cy="95" r="6"/>
+    </g>
+</svg>
