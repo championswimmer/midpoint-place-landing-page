@@ -41,6 +41,10 @@
   transition: all 0.5s ease;
 }
 
+.demo-avatar img {
+  border-radius: 50%;
+}
+
 #demo-user-1 {
   background-color: var(--color-primary);
 }

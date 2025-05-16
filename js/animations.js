@@ -1,5 +1,3 @@
-// Animation control for the demo section
-
 function initDemoAnimation() {
   const demoElement = document.getElementById('demo-animation');
   
@@ -21,16 +19,19 @@ function initDemoAnimation() {
   if (user1) {
     user1.style.top = '30%';
     user1.style.left = '20%';
+    user1.style.borderRadius = '50%';
   }
   
   if (user2) {
     user2.style.top = '60%';
     user2.style.left = '70%';
+    user2.style.borderRadius = '50%';
   }
   
   if (user3) {
     user3.style.top = '20%';
     user3.style.left = '60%';
+    user3.style.borderRadius = '50%';
   }
   
   if (midpoint) {
