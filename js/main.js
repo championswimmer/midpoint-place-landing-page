@@ -1,5 +1,3 @@
-// Main JavaScript file for midpoint.place
-
 document.addEventListener('DOMContentLoaded', function() {
   // Mobile menu functionality
   const menuToggle = document.querySelector('.mobile-menu-toggle');
@@ -87,6 +85,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Initialize the demo animation
   initDemoAnimation();
+
+  // Initialize the flipping text
+  initFlippingText();
 });
 
 // Handle smooth scrolling for anchor links
@@ -120,3 +121,27 @@ featureCards.forEach(card => {
     this.classList.remove('hovered');
   });
 });
+
+function initFlippingText() {
+  const flippingTextElement = document.querySelector('.flipping-text');
+  if (!flippingTextElement) return;
+
+  const texts = JSON.parse(flippingTextElement.getAttribute('data-texts'));
+  const colors = [
+    'var(--color-primary)',
+    'var(--color-primary-light)',
+    'var(--color-primary-dark)',
+    'var(--color-accent)',
+    'var(--color-accent-light)',
+    'var(--color-accent-dark)',
+    'var(--color-success)'
+  ];
+
+  let currentIndex = 0;
+
+  setInterval(() => {
+    flippingTextElement.textContent = texts[currentIndex];
+    flippingTextElement.style.color = colors[currentIndex];
+    currentIndex = (currentIndex + 1) % texts.length;
+  }, 2000);
+}
