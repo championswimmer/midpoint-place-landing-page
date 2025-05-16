@@ -140,8 +140,12 @@ function initFlippingText() {
   let currentIndex = 0;
 
   setInterval(() => {
-    flippingTextElement.textContent = texts[currentIndex];
-    flippingTextElement.style.color = colors[currentIndex];
-    currentIndex = (currentIndex + 1) % texts.length;
-  }, 2000);
+    flippingTextElement.classList.add('flip');
+    setTimeout(() => {
+      flippingTextElement.textContent = texts[currentIndex];
+      flippingTextElement.style.color = colors[Math.floor(Math.random() * colors.length)];
+      flippingTextElement.classList.remove('flip');
+      currentIndex = (currentIndex + 1) % texts.length;
+    }, 500);
+  }, 1000);
 }
