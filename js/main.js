@@ -151,5 +151,5 @@ function initFlippingText() {
       }, 200);
       currentIndex = (currentIndex + 1) % texts.length;
     }, 200);
-  }, 1000);
+  }, 1400);
 }
