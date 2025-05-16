@@ -88,6 +88,15 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Initialize the flipping text
   initFlippingText();
+
+  // Add event listener for the waitlist form submission
+  const waitlistForm = document.getElementById('waitlist-form');
+  if (waitlistForm) {
+    waitlistForm.addEventListener('submit', function(event) {
+      event.preventDefault();
+      handleWaitlistFormSubmission();
+    });
+  }
 });
 
 // Handle smooth scrolling for anchor links
@@ -152,4 +161,32 @@ function initFlippingText() {
       currentIndex = (currentIndex + 1) % texts.length;
     }, 200);
   }, 1400);
+}
+
+function handleWaitlistFormSubmission() {
+  const emailInput = document.getElementById('email-input');
+  const submitButton = document.getElementById('submit-button');
+  const waitlistForm = document.getElementById('waitlist-form');
+
+  if (!emailInput || !submitButton || !waitlistForm) return;
+
+  const email = emailInput.value;
+
+  // Make POST request to API endpoint
+  fetch('https://api.midpoint.place/v1/waitlist/signup', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({ email: email })
+  })
+  .then(response => response.json())
+  .then(data => {
+    // Replace the form with the success/error message
+    waitlistForm.innerHTML = `<p>${data.message}</p>`;
+  })
+  .catch(error => {
+    // Handle error
+    waitlistForm.innerHTML = `<p>There was an error. Please try again later.</p>`;
+  });
 }
