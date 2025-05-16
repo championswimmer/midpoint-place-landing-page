@@ -209,3 +209,14 @@
   66% { color: var(--color-success); }
   100% { color: var(--color-accent); }
 }
+
+/* Flipping text animation */
+.flipping-text {
+  display: inline-block;
+  transition: transform 0.5s ease, opacity 0.5s ease;
+}
+
+.flipping-text.flip {
+  transform: rotateX(180deg);
+  opacity: 0;
+}
