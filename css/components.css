@@ -378,8 +378,7 @@
   position: relative;
   width: 100%;
   max-width: 320px;
-  height: 0;
-  padding-bottom: 160%;
+  height: 640px;
   margin: 0 auto;
   background-color: #000;
   border-radius: 40px;
