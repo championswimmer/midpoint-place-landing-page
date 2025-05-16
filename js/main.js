@@ -140,12 +140,16 @@ function initFlippingText() {
   let currentIndex = 0;
 
   setInterval(() => {
-    flippingTextElement.classList.add('flip');
+    flippingTextElement.classList.add('fade-out');
     setTimeout(() => {
       flippingTextElement.textContent = texts[currentIndex];
       flippingTextElement.style.color = colors[Math.floor(Math.random() * colors.length)];
-      flippingTextElement.classList.remove('flip');
+      flippingTextElement.classList.remove('fade-out');
+      flippingTextElement.classList.add('fade-in');
+      setTimeout(() => {
+        flippingTextElement.classList.remove('fade-in');
+      }, 200);
       currentIndex = (currentIndex + 1) % texts.length;
-    }, 500);
+    }, 200);
   }, 1000);
 }
