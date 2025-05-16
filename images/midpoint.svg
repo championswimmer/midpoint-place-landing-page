@@ -5,9 +5,9 @@
         <circle fill="#36E2C3" opacity="0.1" cx="100" cy="75" r="40"/>
         <circle fill="#36E2C3" cx="100" cy="75" r="10"/>
         <circle fill="#FFFFFF" cx="100" cy="75" r="4"/>
-        <circle fill="#8A4FFF" cx="60" cy="45" r="8"/>
-        <circle fill="#8A4FFF" cx="140" cy="105" r="8"/>
-        <circle fill="#8A4FFF" cx="60" cy="105" r="8"/>
+        <circle fill="#8B6D9C" cx="60" cy="45" r="8"/>
+        <circle fill="#8B6D9C" cx="140" cy="105" r="8"/>
+        <circle fill="#8B6D9C" cx="60" cy="105" r="8"/>
         <circle fill="#36E2C3" opacity="0.8" cx="85" cy="65" r="6"/>
         <circle fill="#36E2C3" opacity="0.8" cx="115" cy="85" r="6"/>
         <circle fill="#36E2C3" opacity="0.8" cx="100" cy="95" r="6"/>
