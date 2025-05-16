@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "postbuild": "cp -r js dist/js && cp -r images dist/images",
     "preview": "vite preview"
   },
   "devDependencies": {

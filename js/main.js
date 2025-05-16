@@ -95,6 +95,9 @@ document.addEventListener('DOMContentLoaded', function() {
     waitlistForm.addEventListener('submit', function(event) {
       event.preventDefault();
       handleWaitlistFormSubmission();
+      posthog.capture('waitlist_form_submitted', {
+        email: emailInput.value
+      });
     });
   }
 });

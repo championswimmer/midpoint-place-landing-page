@@ -224,6 +224,7 @@ function initDemoAnimation() {
       }
       
       setTimeout(runDemoAnimation, 500);
+      handleWaitlistFormSubmission();
     });
   }
 }
