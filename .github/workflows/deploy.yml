@@ -22,10 +22,7 @@ jobs:
         run: npm install
 
       - name: Build the site
-        run: |
-          npm run build;
-          cp -r js dist/js;
-          cp -r images dist/images;
+        run: npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
