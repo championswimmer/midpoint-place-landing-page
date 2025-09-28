@@ -506,6 +506,35 @@
   padding: var(--spacing-3) var(--spacing-5);
 }
 
+/* SEO Pages */
+.seo-page {
+  padding-top: 120px;
+  padding-bottom: var(--spacing-7);
+}
+
+.seo-article {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.seo-article h1 {
+  margin-bottom: var(--spacing-4);
+}
+
+.seo-article h2 {
+  margin-top: var(--spacing-5);
+  margin-bottom: var(--spacing-3);
+}
+
+.seo-article ul {
+  margin-bottom: var(--spacing-4);
+  padding-left: var(--spacing-4);
+}
+
+.seo-article li {
+  margin-bottom: var(--spacing-1);
+}
+
 /* Footer */
 .footer {
   background-color: var(--color-primary-dark);
