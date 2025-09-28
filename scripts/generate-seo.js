@@ -6,7 +6,7 @@ import { marked } from 'marked';
 const projectRoot = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const rootDir = decodeURIComponent(projectRoot);
 const distDir = path.join(rootDir, 'dist');
-const seoSrcDir = path.join(rootDir, 'src', 'seo');
+const seoSrcDir = path.join(rootDir, 'seo');
 
 function assertPaths() {
   if (!fs.existsSync(distDir)) {
