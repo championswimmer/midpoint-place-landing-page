@@ -1,170 +1,230 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://midpoint.place/balanced-travel-meetup-finder.html</loc>
+    <lastmod>2025-10-30T11:28:57.712Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://midpoint.place/bar-or-pub-halfway-between-friends.html</loc>
-    <lastmod>2025-10-21T23:45:15.948Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.716Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/business-meeting-spot-in-the-middle.html</loc>
-    <lastmod>2025-10-21T23:45:15.953Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.717Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midpoint.place/cafes-libraries-parks-for-groups.html</loc>
+    <lastmod>2025-10-30T11:28:57.718Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/coffee-shop-halfway-between-us.html</loc>
-    <lastmod>2025-10-21T23:45:15.954Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.719Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midpoint.place/common-ground-no-far-travel.html</loc>
+    <lastmod>2025-10-30T11:28:57.721Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midpoint.place/democratically-selected-meetup-points.html</loc>
+    <lastmod>2025-10-30T11:28:57.722Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midpoint.place/equidistant-meetup-locations.html</loc>
+    <lastmod>2025-10-30T11:28:57.724Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midpoint.place/fair-distance-group-meetups.html</loc>
+    <lastmod>2025-10-30T11:28:57.727Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midpoint.place/group-activity-central-locations.html</loc>
+    <lastmod>2025-10-30T11:28:57.731Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/group-meetup-location-finder.html</loc>
-    <lastmod>2025-10-21T23:45:15.955Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.732Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/halfway-point-between-two-addresses.html</loc>
-    <lastmod>2025-10-21T23:45:15.956Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.732Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place</loc>
-    <lastmod>2025-10-21T23:45:15.832Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.605Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-friends-middle.html</loc>
-    <lastmod>2025-10-21T23:45:15.956Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.733Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-bangkok.html</loc>
-    <lastmod>2025-10-21T23:45:15.957Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.734Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-barcelona.html</loc>
-    <lastmod>2025-10-21T23:45:15.958Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.735Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-berlin.html</loc>
-    <lastmod>2025-10-21T23:45:15.959Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.735Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-chicago.html</loc>
-    <lastmod>2025-10-21T23:45:15.960Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.736Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-dubai.html</loc>
-    <lastmod>2025-10-21T23:45:15.961Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.736Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-hong-kong.html</loc>
-    <lastmod>2025-10-21T23:45:15.962Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.737Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-istanbul.html</loc>
-    <lastmod>2025-10-21T23:45:15.962Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.738Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-london.html</loc>
-    <lastmod>2025-10-21T23:45:15.963Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.739Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-los-angeles.html</loc>
-    <lastmod>2025-10-21T23:45:15.964Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.740Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-mexico-city.html</loc>
-    <lastmod>2025-10-21T23:45:15.965Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.741Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-mumbai.html</loc>
-    <lastmod>2025-10-21T23:45:15.966Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.741Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-new-york-city.html</loc>
-    <lastmod>2025-10-21T23:45:15.966Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.742Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-paris.html</loc>
-    <lastmod>2025-10-21T23:45:15.967Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.742Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-rome.html</loc>
-    <lastmod>2025-10-21T23:45:15.968Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.743Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-san-francisco.html</loc>
-    <lastmod>2025-10-21T23:45:15.969Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.744Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-sao-paulo.html</loc>
-    <lastmod>2025-10-21T23:45:15.970Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.745Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-singapore.html</loc>
-    <lastmod>2025-10-21T23:45:15.971Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.745Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-sydney.html</loc>
-    <lastmod>2025-10-21T23:45:15.971Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.746Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-tokyo.html</loc>
-    <lastmod>2025-10-21T23:45:15.972Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.746Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/meet-in-the-middle-toronto.html</loc>
-    <lastmod>2025-10-21T23:45:15.972Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.747Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midpoint.place/meetups-not-far-from-anyone.html</loc>
+    <lastmod>2025-10-30T11:28:57.748Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midpoint.place/reading-club-accessible-libraries.html</loc>
+    <lastmod>2025-10-30T11:28:57.750Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://midpoint.place/restaurants-halfway-between-two-locations.html</loc>
-    <lastmod>2025-10-21T23:45:15.973Z</lastmod>
+    <lastmod>2025-10-30T11:28:57.751Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://midpoint.place/running-club-equidistant-spots.html</loc>
+    <lastmod>2025-10-30T11:28:57.752Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
