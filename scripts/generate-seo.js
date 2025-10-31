@@ -23,6 +23,7 @@ function readBaseTemplate() {
   const html = fs.readFileSync(indexHtmlPath, 'utf8');
   const headMatch = html.match(/<head>[\s\S]*?<\/head>/i);
   const headerMatch = html.match(/<header[\s\S]*?<\/header>/i);
+  const mobileMenuMatch = html.match(/<div class="mobile-menu">[\s\S]*?<\/div>/i);
   const footerMatch = html.match(/<footer[\s\S]*?<\/footer>/i);
   const scripts = [];
   const scriptRegex = /<script[\s\S]*?<\/script>/gi;
@@ -33,6 +34,7 @@ function readBaseTemplate() {
   return {
     head: headMatch ? headMatch[0] : '<head></head>',
     header: headerMatch ? headerMatch[0] : '',
+    mobileMenu: mobileMenuMatch ? mobileMenuMatch[0] : '',
     footer: footerMatch ? footerMatch[0] : '',
     scripts: scripts.join('\n')
   };
@@ -62,6 +64,7 @@ function buildPage({ frontmatter, contentHtml }, base) {
 
   const body = [
     base.header,
+    base.mobileMenu,
     article,
     base.footer,
     base.scripts
