@@ -7,45 +7,56 @@ ogimage: https://midpoint.place/images/vote-meet.svg
 
 # Restaurants Halfway Between Two Locations — Eat Fairly in the Middle
 
-Dinner shouldn’t require a debate. midpoint.place finds the midpoint between you and others, then suggests restaurants nearby so everyone travels a fair distance. Filter by cuisine, budget, ratings, and vibe to land on a delicious choice quickly.
+"Where do you want to eat?" "I don't know, where do you want to eat?"
+This conversation is painful enough *before* you factor in travel time. midpoint.place ends the debate by finding the geographic center between two (or more) people and surfacing the best restaurants nearby. It's the fairest way to break bread.
 
-## Perfect for
+## Why pick a restaurant in the middle?
 
-- Friends from different neighborhoods
-- Colleagues after work from separate offices
-- Couples splitting the distance
+- **Discovery**: You break out of your "usual rotation" and try that Thai place in the neighborhood you usually drive past.
+- **Fairness**: No one is "hosting," so the bill—and the travel effort—is naturally split.
+- **Flexibility**: Midpoint neighborhoods often have different parking and crowd situations than your local downtown.
 
-## How it works
+## How to navigate the "Midpoint Menu"
 
-1. Add your locations (address or pin).
-2. We compute a fair midpoint for the group.
-3. Explore nearby restaurants by cuisine and price.
-4. Share the shortlist and decide together.
+Once the tool drops a pin on the map:
 
-## Smart filters to decide faster
+### 1. The "Cuisine Compromise"
+If the midpoint is in a diverse neighborhood, use it as an excuse to be adventurous.
+- **Search**: "Tapas", "Ethiopian", "Dim Sum".
+- **Why**: Sharing small plates is a great way to bond over a new experience.
 
-- Cuisine types: Italian, Indian, sushi, vegetarian, and more
-- Budget range and opening hours
-- Accessibility and outdoor seating
+### 2. The Budget Check
+Ensure the area fits everyone's wallet.
+- **Search**: "Diner" ($) vs "Steakhouse" ($$$).
+- **Tip**: Check the menu link before suggesting it to the group.
 
-## Example scenarios
+### 3. The Dietary Restriction Filter
+Got a vegan and a keto eater?
+- **Search**: "Farm to Table" or "Mediterranean". These cuisines usually cater well to mixed dietary needs.
 
-- Two coworkers choose a central ramen spot between downtown and midtown.
-- Old friends meet at a budget-friendly bistro halfway across town.
+## Venues for every occasion
+
+- **The Quick Catch-up**: Fast-casual spots (Chipotle, Panera) near highway exits. Efficient and low cost.
+- **The Date Night**: White tablecloth Italians or Sushi bars. Look for high ratings (4.5+ stars).
+- **The Group Dinner**: BBQ joints or Mexican restaurants. Great for loud groups and pitchers of margaritas.
+
+## Example Scenario
+
+Person A lives in the North Suburbs. Person B lives in the South City.
+- **The Midpoint**: An inner-ring suburb known for its "Little Italy."
+- **The Plan**: They meet at a family-owned pasta shop. Person A drives 20 mins south; Person B drives 20 mins north. Easy parking, great food, fair for both.
 
 ## FAQs
 
-**Can I add more than two people?**  
-Yes—add as many as you like. We’ll find a fair midpoint across the entire group.
+**Can I find open tables?**  
+midpoint.place helps you find the venue. We recommend using OpenTable or Resy to secure the booking once you decide.
 
-**Does midpoint.place consider ratings?**  
-You’ll see nearby venues; use filters and ratings to refine quickly.
+**What if the midpoint is a residential area?**  
+The tool will show the nearest commercial clusters. You might have to drive 2 minutes from the exact mathematical center to find the restaurant row.
 
-**What about reservations?**  
-Once you pick a spot, reserve directly with the venue.
+**Is it good for business lunches?**  
+Yes. Meeting a client halfway for lunch is a professional courtesy that sets a great tone.
 
-## Get started
+## Stop debating, start eating
 
-Share locations, see central restaurants, and agree in minutes. midpoint.place makes dining decisions easy—and fair.
-
-
+Hungry? Find a fair, central restaurant for your next meal with midpoint.place.

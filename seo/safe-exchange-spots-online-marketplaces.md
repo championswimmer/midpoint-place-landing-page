@@ -7,32 +7,56 @@ ogimage: https://midpoint.place/images/share-location.svg
 
 # Safe Exchange Spots for Online Marketplaces — Neutral & Fair
 
-Buying or selling online? Don't reveal your home address. Use midpoint.place to find a safe, public, and equidistant location to meet buyers or sellers from Craigslist, Facebook Marketplace, or OfferUp.
+You found the perfect deal on Facebook Marketplace, but the seller lives 40 minutes away and "porch pickup" feels risky. Or maybe you're selling a laptop and don't want a stranger knowing where you sleep. midpoint.place helps you find a safe, public, and equidistant location to meet buyers or sellers, ensuring the transaction is secure and the travel is fair.
 
-## Why use a midpoint?
+## The rules of the safe trade
 
-- Safety: Meet in public, busy areas.
-- Fairness: Split the travel distance.
-- Privacy: Keep your home address private.
+Safety should never be compromised for a deal.
+- **Rule #1**: Never meet at a private residence for high-value items.
+- **Rule #2**: Never get into a stranger's car.
+- **Rule #3**: Always meet in daylight.
 
-## Recommended Venues
+## Best venues for exchanges
 
-- Busy coffee shops
-- Police station parking lots (safe zones)
-- Shopping mall food courts
+When you calculate the midpoint, look for these specific venue types:
 
-## Example
+### 1. Police Station "Safe Zones"
+Many police departments have designated "E-Commerce Exchange Zones" in their lobbies or parking lots. These are monitored by cameras 24/7.
+- **Search**: "Police Station" or "Sheriff's Office".
 
-A seller and buyer agree to meet at a Starbucks halfway between their neighborhoods to inspect and exchange a used laptop safely.
+### 2. Bank Lobbies
+If you are selling a car or item for cash, meeting at a bank is smart.
+- **Benefit**: You can verify the cash is real/deposit it immediately.
+- **Benefit**: Cameras are everywhere.
+
+### 3. Busy Coffee Shops
+For lower stakes items (clothes, books), a Starbucks is perfect.
+- **Benefit**: Wi-Fi allows you to Venmo/Zelle instantly.
+- **Benefit**: High foot traffic discourages bad behavior.
+
+## Handling the "Fairness" of travel
+
+- **The Standard**: Splitting the drive 50/50 is the polite norm for mid-value items ($50+).
+- **The Exception**: For cheap items (under $20), the buyer usually travels to the seller.
+- **The Negotiation**: Use the midpoint.place map to show *why* a specific spot is fair. "Hey, this mall is exactly 15 mins for both of us."
+
+## Tips for specific items
+
+- **Electronics**: Meet somewhere with power outlets (cafe) to test that it turns on.
+- **Clothing**: Do not try things on in a stranger's car. Meet at a mall with public restrooms if needed.
+- **Furniture**: If the item is huge, you might *have* to go to their house. Bring a friend. Do not go alone.
 
 ## FAQs
 
-**Is it free to use?**  
-Yes, finding a midpoint is completely free.
+**Can I share the location without sharing my address?**  
+Yes! That's the whole point. You enter your general area (zip code), finding the midpoint without ever revealing your street address.
 
-**Can I share the location link?**  
-Absolutely. Send the generated midpoint link to the other person to confirm the meeting spot.
+**What if they refuse to meet halfway?**  
+If a buyer refuses to meet in a public place, that is a red flag. Walk away from the deal.
 
-## Plan your meetup
+**Is it safe to use Venmo/CashApp?**  
+Yes, but treat it like cash. Once sent, it's gone. Verify the item *before* sending payment.
 
-Find a fair, central location for your next meetup with midpoint.place.
+## Trade smart
+
+Protect your privacy and your time. Find a safe, central location for your next online exchange with midpoint.place.
