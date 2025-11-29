@@ -7,55 +7,61 @@ ogimage: https://midpoint.place/images/midpoint.svg
 
 # Halfway Point Between Two Addresses — Meet Fairly in the Middle
 
-Finding a fair place to meet between two addresses shouldn’t be a hassle. Whether you’re planning a casual coffee, a client meeting, or catching up with a friend across town, midpoint.place calculates the exact midpoint between any two locations and suggests great venues nearby so nobody travels unfairly far.
+Finding a fair place to meet between two addresses shouldn’t be a hassle. Whether you’re planning a casual coffee, a client meeting, or a safe Craigslist exchange, midpoint.place calculates the exact midpoint between any two locations and suggests great venues nearby so nobody travels unfairly far.
 
-With just a couple of inputs, you’ll get a central point, real suggestions (cafés, restaurants, parks), and an easy way to decide together.
+## The problem with "I'll come to you"
 
-## Who this is for
+Politeness often dictates that one person travels to the other. But over time, this creates an imbalance.
+- **The "Host" Fatigue**: The person who stays local has to clean/prep or just feels guilty.
+- **The "Traveler" Burnout**: The person driving feels their time is valued less.
+- **The Solution**: A neutral halfway point resets the dynamic to 50/50.
 
-- People meeting from opposite sides of a city
-- Couples living in different neighborhoods
-- Colleagues from different offices
-- Friends trying to keep travel time fair
+## How to find the perfect halfway point
 
-## How it works with midpoint.place
+### 1. Input the Starts
+Enter the two addresses. They can be specific (123 Main St) or general (Zip Code 90210).
+### 2. Analyze the Center
+The tool places a pin at the geographic center.
+- *Tip*: If the center is in a lake or a highway interchange, zoom out slightly to find the nearest commercial zone.
+### 3. Select the Venue
+Don't just say "Meet at the gas station." Look for:
+- **Coffee Shops**: For low-stakes chats.
+- **Diners**: For meals.
+- **Malls**: For safe, public exchanges.
 
-1. Enter two addresses (or drop pins on the map).
-2. We calculate a central, fair midpoint for both of you.
-3. Browse nearby venues by category (coffee, food, drinks, parks).
-4. Share the shortlist and pick a place together.
+## Common Scenarios
 
-## Why pick a midpoint?
+### The Online Marketplace Swap
+Selling a guitar on Facebook Marketplace? Don't have a stranger come to your house.
+- **Strategy**: Find the halfway point between you and the buyer.
+- **Venue**: A busy gas station or police station parking lot.
 
-- Fairness: Nobody bears a disproportionate travel burden.
-- Convenience: Discover places that naturally work for both.
-- Speed: Decide in minutes, not via endless message threads.
+### The First Date
+Meeting someone from a dating app who lives in a different borough?
+- **Strategy**: Find a bar or cafe in the middle.
+- **Benefit**: If the date goes poorly, you both have an equal commute home.
 
-## Features you’ll love
+### The Long-Distance Friend
+You live in City A, they live in City B (2 hours apart).
+- **Strategy**: Find the town at the 1-hour mark.
+- **Benefit**: It turns a "slog" into a manageable day trip.
 
-- Accurate midpoint calculation between any two addresses
-- Venue discovery with filters for cuisine, vibe, and budget
-- Lightweight sharing so you can agree quickly
-- Privacy-first location handling
+## Technical details: Distance vs. Time
 
-## Real-world examples
-
-- Meet halfway between 12th Avenue and Park Street for a quick coffee.
-- Pick a central diner between your place in the suburbs and a friend downtown.
+- **Geographic Midpoint**: The physical center "as the crow flies." Good for general fairness.
+- **Travel Time Midpoint**: The point where drive times are equal. (e.g., if one person is driving on a fast highway and the other on slow city streets, the point moves closer to the city driver). *midpoint.place supports both perspectives.*
 
 ## FAQs
 
-**How accurate is the midpoint?**  
-We calculate an equidistant point using geospatial methods. For practical meetups, we pair that midpoint with nearby, well-rated venues.
-
 **Do I need exact addresses?**  
-You can enter landmarks or drag map pins—whatever’s easiest.
+No. You can use landmarks ("Eiffel Tower") or drag pins on the map.
 
-**What if we prefer to minimize driving time, not distance?**  
-Use our travel-time approach (see the Weighted Midpoint page) to account for traffic and mode of travel.
+**What if the halfway point is unsafe?**  
+Always check the street view or use well-known venues (like Starbucks or McDonald's) which tend to be in trafficked areas.
 
-## Get started in seconds
+**Can I share the map?**  
+Yes, sending the link proves to the other person that you picked a spot that is mathematically fair.
+
+## Meet halfway today
 
 Stop searching endlessly for “somewhere in between.” Use midpoint.place to find the halfway point between two addresses and choose a great spot—fast, fair, and simple.
-
-
