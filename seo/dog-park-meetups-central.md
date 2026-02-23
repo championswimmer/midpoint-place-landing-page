@@ -59,3 +59,11 @@ Some cities have indoor dog parks or dog-friendly bars. Filter your search accor
 ## Plan your puppy playdate
 
 Don't let distance keep your dogs apart. Find a fair, central location for your next pet meetup with midpoint.place.
+
+## Dog meetup planning checklist for owners
+
+A great midpoint dog meetup is about more than just distance. It should reduce stress for the dogs and make coordination simple for humans. Before confirming a location, check whether the park has posted leash rules, water availability, and enough shade for warm afternoons. If your group includes puppies, senior dogs, or reactive dogs, pick a park with clear walking loops and enough space to create distance when needed.
+
+Bring a small shared kit so no one forgets essentials: poop bags, collapsible bowls, towel wipes, and a backup leash. It also helps to agree on a time-boxed plan, such as 15 minutes of sniff-and-greet, 30 minutes of free play, then a cool-down walk. This keeps the meetup structured and avoids overexcitement.
+
+For safety, choose a visible meeting landmark near the park entrance, especially if multiple owners arrive separately. If your midpoint is in a new neighborhood, do a quick map check for nearby vet clinics and convenience stores in case you need supplies. Finally, rotate midpoint parks every few weeks so each dog gets new environments and your group never gets stuck with one repetitive route.

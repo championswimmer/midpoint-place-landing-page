@@ -58,3 +58,13 @@ Yes, though for very large distances (e.g., London vs New York), the "midpoint" 
 ## Stop debating, start meeting
 
 Remove the friction from your social life. Use midpoint.place to find the fair, central location that makes everyone say "I'll be there."
+
+## A repeatable process for any group event
+
+The easiest way to make group planning feel effortless is to use the same process every time. Start by setting a clear event type: quick dinner, two-hour activity, or all-evening hangout. Event length affects how far people are willing to travel. For short events, prioritize strict midpoint fairness. For longer events, slight travel imbalance can be acceptable if the venue quality is significantly better.
+
+Next, create a short list of three venue candidates near the calculated midpoint. Keep the options in different categories, such as one quiet cafe, one lively restaurant, and one activity-focused place. This increases the odds that dietary needs, noise preferences, and budget expectations are covered.
+
+Before finalizing, check practical constraints that often get ignored: last train timing, parking cost, wheelchair access, and whether reservations are required. These details matter more than aesthetics when attendance is the goal.
+
+After each meetup, save the winning location and turnout in your group notes. Over time, you build a private dataset of places where people actually show up. That feedback loop turns midpoint planning from guesswork into a reliable system, and your group spends less time debating logistics and more time enjoying the event.
