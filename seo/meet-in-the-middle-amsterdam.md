@@ -7,7 +7,7 @@ ogimage: https://midpoint.place/images/midpoint.svg
 
 # Meet in the Middle in Amsterdam — Fair Locations for Group Meetups
 
-Large cities are exciting, but they make simple plans feel complicated. In Amsterdam, one person can be close to the center while another crosses rail lines, bridges, or traffic bottlenecks just to share a coffee. midpoint.place helps you remove that friction by identifying a practical midpoint where everyone travels a similar amount of time. Instead of starting your planning with opinions, you start with a neutral reference point that makes the conversation easier.
+Coordinating plans in Amsterdam can be tricky with its canals, bike lanes, and distinct neighborhoods. Someone in Noord might have a very different journey to the center than someone coming from Zuid. midpoint.place helps you find a truly central and convenient spot, like a cafe in De Pijp or near Centraal Station, by balancing travel times for everyone, whether they're cycling, taking a tram, or using the metro.
 
 ## Why midpoint planning works in Amsterdam
 
