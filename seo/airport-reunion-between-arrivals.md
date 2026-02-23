@@ -24,7 +24,7 @@ Use full addresses, not vague neighborhood names. Accurate inputs improve route 
 Use midpoint.place to identify the initial center. For recurring events, save this location so future planning becomes faster.
 
 ### 3. Apply scenario-specific filters
-For this use case, shortlist venues based on what matters most: reliable opening hours, seating availability, safety, and practical transport options.
+For airport reunions, shortlist venues based on what matters most: terminal accessibility, luggage-friendly space, flexible timing for delays, short-stay parking options, and easy pickup/dropoff flow.
 
 ### 4. Validate travel parity
 Before confirming the final place, compare approximate travel times. If one person is still heavily disadvantaged, adjust slightly while staying near the center.
@@ -35,14 +35,14 @@ Send a single map link plus arrival guidance (“closest station exit,” “bes
 ## Operational checklist
 
 - Confirm venue hours for the planned day and time.
-- Check whether reservations are required.
+- Check whether short-stay parking limits fit your reunion timeline.
 - Verify restrooms, lighting, and weather backup options.
-- Ensure the group can split payments if needed.
-- Keep a backup venue within a short walk.
+- Ensure elevators or ramps are available for large bags.
+- Keep a backup meeting point within a short walk.
 
 ## Example scenario in practice
 
-A group of participants from opposite sides of a city has repeatedly failed to meet because travel felt unfair. They switch to midpoint planning and identify a neutral district near a major transit interchange. Instead of selecting the first available venue, they choose one with clear signage, reliable seating, and good late-evening safety. The result is a smoother meetup where all participants arrive within a similar time window. Over several months, the same workflow becomes their default, reducing planning overhead and improving attendance consistency.
+A family coordinating two arrivals—one at the airport and one from downtown—keeps missing each other because they pick vague meeting points. They switch to midpoint planning and choose a central airport-adjacent hotel cafe with luggage space and clear signage. Instead of waiting curbside, they use a fixed indoor meeting spot that handles flight delays and weather changes. Reunion timing becomes smoother and everyone spends less time circling terminals.
 
 ## Frequently asked questions
 

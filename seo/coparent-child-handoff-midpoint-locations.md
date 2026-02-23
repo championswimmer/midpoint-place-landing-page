@@ -24,7 +24,7 @@ Use full addresses, not vague neighborhood names. Accurate inputs improve route 
 Use midpoint.place to identify the initial center. For recurring events, save this location so future planning becomes faster.
 
 ### 3. Apply scenario-specific filters
-For this use case, shortlist venues based on what matters most: reliable opening hours, seating availability, safety, and practical transport options.
+For co-parent handoffs, shortlist venues based on what matters most: public visibility, easy curbside parking, predictable hours, child-friendly waiting space, and neutral territory comfortable for both adults.
 
 ### 4. Validate travel parity
 Before confirming the final place, compare approximate travel times. If one person is still heavily disadvantaged, adjust slightly while staying near the center.
@@ -35,14 +35,14 @@ Send a single map link plus arrival guidance (“closest station exit,” “bes
 ## Operational checklist
 
 - Confirm venue hours for the planned day and time.
-- Check whether reservations are required.
+- Confirm handoff timing with buffer for traffic delays.
 - Verify restrooms, lighting, and weather backup options.
-- Ensure the group can split payments if needed.
-- Keep a backup venue within a short walk.
+- Choose a clearly visible meeting point near the entrance.
+- Keep a backup public location within a short drive.
 
 ## Example scenario in practice
 
-A group of participants from opposite sides of a city has repeatedly failed to meet because travel felt unfair. They switch to midpoint planning and identify a neutral district near a major transit interchange. Instead of selecting the first available venue, they choose one with clear signage, reliable seating, and good late-evening safety. The result is a smoother meetup where all participants arrive within a similar time window. Over several months, the same workflow becomes their default, reducing planning overhead and improving attendance consistency.
+Two co-parents living in different suburbs repeatedly run late during weekend custody transitions. They switch to midpoint planning and choose a neutral library parking area near both routes. Instead of improvising each week, they set one clearly marked handoff point with restrooms and a covered entrance nearby. The child experiences a calmer routine, both parents reduce conflict about travel burden, and handoffs become more predictable.
 
 ## Frequently asked questions
 

@@ -24,7 +24,7 @@ Use full addresses, not vague neighborhood names. Accurate inputs improve route 
 Use midpoint.place to identify the initial center. For recurring events, save this location so future planning becomes faster.
 
 ### 3. Apply scenario-specific filters
-For this use case, shortlist venues based on what matters most: reliable opening hours, seating availability, safety, and practical transport options.
+For escape-room meetups, shortlist venues based on what matters most: available game slots, room difficulty options, group size limits, and transit-friendly arrival windows before check-in time.
 
 ### 4. Validate travel parity
 Before confirming the final place, compare approximate travel times. If one person is still heavily disadvantaged, adjust slightly while staying near the center.
@@ -35,14 +35,14 @@ Send a single map link plus arrival guidance (“closest station exit,” “bes
 ## Operational checklist
 
 - Confirm venue hours for the planned day and time.
-- Check whether reservations are required.
+- Check whether advance booking and deposits are required.
 - Verify restrooms, lighting, and weather backup options.
-- Ensure the group can split payments if needed.
-- Keep a backup venue within a short walk.
+- Ensure the group can split the booking payment if needed.
+- Keep a backup game venue within a short walk.
 
 ## Example scenario in practice
 
-A group of participants from opposite sides of a city has repeatedly failed to meet because travel felt unfair. They switch to midpoint planning and identify a neutral district near a major transit interchange. Instead of selecting the first available venue, they choose one with clear signage, reliable seating, and good late-evening safety. The result is a smoother meetup where all participants arrive within a similar time window. Over several months, the same workflow becomes their default, reducing planning overhead and improving attendance consistency.
+A friend group planning a Friday activity has members on opposite sides of the city and keeps dropping people due to long commutes. They switch to midpoint planning and choose an entertainment district with multiple escape-room operators. Instead of booking the first listing, they pick a central venue with a 7:00 PM slot and medium difficulty room for six players. Everyone arrives before check-in, the game starts on time, and the group adopts the same midpoint workflow for future outings.
 
 ## Frequently asked questions
 

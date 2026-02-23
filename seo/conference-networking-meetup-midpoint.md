@@ -24,7 +24,7 @@ Use full addresses, not vague neighborhood names. Accurate inputs improve route 
 Use midpoint.place to identify the initial center. For recurring events, save this location so future planning becomes faster.
 
 ### 3. Apply scenario-specific filters
-For this use case, shortlist venues based on what matters most: reliable opening hours, seating availability, safety, and practical transport options.
+For conference networking, shortlist venues based on what matters most: proximity to the convention center, professional atmosphere, reliable Wi-Fi, low background noise, and quick access during session breaks.
 
 ### 4. Validate travel parity
 Before confirming the final place, compare approximate travel times. If one person is still heavily disadvantaged, adjust slightly while staying near the center.
@@ -35,14 +35,14 @@ Send a single map link plus arrival guidance (“closest station exit,” “bes
 ## Operational checklist
 
 - Confirm venue hours for the planned day and time.
-- Check whether reservations are required.
+- Check whether reservations are required for business groups.
 - Verify restrooms, lighting, and weather backup options.
-- Ensure the group can split payments if needed.
-- Keep a backup venue within a short walk.
+- Ensure presenters can charge laptops or phones on site.
+- Keep a backup networking venue within a short walk.
 
 ## Example scenario in practice
 
-A group of participants from opposite sides of a city has repeatedly failed to meet because travel felt unfair. They switch to midpoint planning and identify a neutral district near a major transit interchange. Instead of selecting the first available venue, they choose one with clear signage, reliable seating, and good late-evening safety. The result is a smoother meetup where all participants arrive within a similar time window. Over several months, the same workflow becomes their default, reducing planning overhead and improving attendance consistency.
+Three conference attendees staying in different hotels want a short networking meetup between sessions. They use midpoint planning to identify a lounge district between the convention hall and their hotels. Instead of choosing a random cafe, they pick a hotel lobby with strong Wi-Fi and quiet tables for demo conversations. Everyone can arrive and return to talks within their break window, so networking feels productive rather than rushed.
 
 ## Frequently asked questions
 

@@ -24,7 +24,7 @@ Use full addresses, not vague neighborhood names. Accurate inputs improve route 
 Use midpoint.place to identify the initial center. For recurring events, save this location so future planning becomes faster.
 
 ### 3. Apply scenario-specific filters
-For this use case, shortlist venues based on what matters most: reliable opening hours, seating availability, safety, and practical transport options.
+For photography walks, shortlist meetup points based on what matters most: sunrise or sunset timing, quick access to scenic streets or waterfronts, safe pedestrian crossings, and nearby transit for carrying camera gear.
 
 ### 4. Validate travel parity
 Before confirming the final place, compare approximate travel times. If one person is still heavily disadvantaged, adjust slightly while staying near the center.
@@ -34,15 +34,15 @@ Send a single map link plus arrival guidance (“closest station exit,” “bes
 
 ## Operational checklist
 
-- Confirm venue hours for the planned day and time.
+- Confirm meetup timing against expected light conditions.
 - Check whether reservations are required.
-- Verify restrooms, lighting, and weather backup options.
-- Ensure the group can split payments if needed.
-- Keep a backup venue within a short walk.
+- Verify restrooms, weather backup options, and sheltered waiting space.
+- Ensure there is a nearby coffee stop for battery swaps and quick breaks.
+- Keep a backup photo route within a short walk.
 
 ## Example scenario in practice
 
-A group of participants from opposite sides of a city has repeatedly failed to meet because travel felt unfair. They switch to midpoint planning and identify a neutral district near a major transit interchange. Instead of selecting the first available venue, they choose one with clear signage, reliable seating, and good late-evening safety. The result is a smoother meetup where all participants arrive within a similar time window. Over several months, the same workflow becomes their default, reducing planning overhead and improving attendance consistency.
+A street-photography group has members on opposite sides of town and keeps missing golden hour because travel times are uneven. They switch to midpoint planning and select a central riverside district with wide sidewalks and multiple visual subjects. Instead of picking a random cafe, they choose a meeting corner that is easy to find and five minutes from their first photo stop. Everyone arrives before sunset, captures better light, and repeats the same process for future walks.
 
 ## Frequently asked questions
 
