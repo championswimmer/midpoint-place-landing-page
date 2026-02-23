@@ -1,7 +1,7 @@
 ---
 title: Airport Layover Meeting Points — Make the Most of Limited Time
 desc: Use midpoint.place to find fair meetup locations for this use case, balancing travel time, convenience, and safety for everyone involved.
-keywords: [midpoint meetup planner, fair meeting location, central venue finder, meet halfway]
+keywords: [airport layover meetup planner, airport midpoint meeting, fair airport meetup location, meet halfway airport]
 ogimage: https://midpoint.place/images/midpoint.svg
 ---
 
